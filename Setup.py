@@ -27,7 +27,7 @@ setup(
     long_description=readme + '\n\n' + history,
     author="Adam Geitgey",
     Updated_by="Yaksh Thakar"
-    author_email='yakshthkar264@gmail.com',
+    email='yakshthkar264@gmail.com',
     url='https://github.com/ageitgey/face_recognition',
     This is For Windows 7,8,10 User 
     packages=[
