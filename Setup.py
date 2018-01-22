@@ -26,6 +26,7 @@ setup(
     description="Recognize faces from Python or from the command line",
     long_description=readme + '\n\n' + history,
     author="Adam Geitgey",
+    Updated_by="Yaksh Thakar"
     author_email='yakshthkar264@gmail.com',
     url='https://github.com/ageitgey/face_recognition',
     This is For Windows 7,8,10 User 
@@ -47,7 +48,7 @@ setup(
     keywords='face_recognition',
     classifiers=[
         'Development Status ::Fresh
-        'Intended Audience :: Developers'
+        'Intended Audience :: Developers
         'Natural Language :: English',
         'Programming Language :: Python :: 3.6',
     ],
