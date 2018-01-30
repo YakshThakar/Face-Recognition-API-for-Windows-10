@@ -43,7 +43,7 @@ setup(
         ]
     },
     install_requires=requirements,
-    license="YBlog",
+    license="MIT license","LJIET"
     zip_safe=False,
     keywords='face_recognition',
     classifiers=[
