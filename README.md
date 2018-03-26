@@ -6,3 +6,4 @@ in which you should update face_recognition folder with  folder name "face recog
 That works on tolerance level 0.7.
 Contribution By Yaksh Thakar
 Enjoy it!
+thanks @ageitgey
